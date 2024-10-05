@@ -145,6 +145,9 @@ STEP&: After that Run the Frontend using the following Command     :-
         ng serve
 
 
+ ![img alt](employee front.PNG)       
+
+
 
 
 
