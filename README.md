@@ -2,6 +2,9 @@
 
 # BACKEND
 STEP1: Firstly Run the project Download Visual Studio...
+
+
+
 STEP2: IN command Prompt Install Django..
 STEP3: After install Django lets create the django Project
 STEP4: Create Django Project..
