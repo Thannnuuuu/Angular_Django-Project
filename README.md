@@ -1,14 +1,14 @@
 # Angular_Django-Project
 
 # BACKEND
-Firstly Run the project Download Visual Studio
- IN command Prompt Install Django
+Firstly Run the project Download Visual Studio...
+IN command Prompt Install Django..
 After install Django lets create the django Project
-Create Django Project
+Create Django Project..
     django-admin startproject EmployeeProject .
 Lets Run the Project Using Following Command
-    python manage.py runserver
-Install Xampp
+    python manage.py runserver...
+Install Xampp..
 Now lets start the apache and mysql in Xampp control panel.
 After that lets configure the database mysql.
     pip install pymysql
