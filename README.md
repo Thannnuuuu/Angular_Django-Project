@@ -48,3 +48,10 @@ Creating a new Component Employee Crud
    ng g c crud
 After that Run the Frontend using the following Command
    ng serve
+
+
+
+
+
+
+End
