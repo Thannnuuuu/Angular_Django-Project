@@ -15,13 +15,13 @@ STEP3: After install Django lets create the django Project
 
 
 
-STEP4: Create Django Project::
+STEP4: Create Django Project  ::
        django-admin startproject EmployeeProject .
 
 
 
        
-STEP5: Lets Run the Project Using Following Command::
+STEP5: Lets Run the Project Using Following Command  ::
        python manage.py runserver
 
 
@@ -37,7 +37,7 @@ STEP7: Now lets start the apache and mysql in Xampp control panel.
 
 
 
-STEP8: After that lets configure the database mysql::
+STEP8: After that lets configure the database mysql  ::
      pip install pymysql
 
 
