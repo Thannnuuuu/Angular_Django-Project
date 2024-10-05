@@ -145,7 +145,7 @@ STEP&: After that Run the Frontend using the following Command     :-
         ng serve
 
 
- ![img alt](employee front.PNG)       
+![img alt](https://github.com/Thannnuuuu/Angular_Django-Project/blob/main/employee%20front.PNG?raw=true)     
 
 
 
