@@ -157,6 +157,10 @@ STEP&: After that Run the Frontend using the following Command     :-
 
 
 
+![img alt](https://github.com/Thannnuuuu/Angular_Django-Project/blob/main/employee%20deleted.PNG?raw=true)
+
+
+
 
 
 
