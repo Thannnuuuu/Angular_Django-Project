@@ -106,6 +106,8 @@ STEP19: Now Run the project using the following command    :-
      python manage.py runserver
 
 
+![img alt](https://github.com/Thannnuuuu/Angular_Django-Project/blob/main/get.PNG?raw=true)
+
 # FRONTEND
 STEP1: Installing Angular CLI   :-
        npm install -g @angular/cli
