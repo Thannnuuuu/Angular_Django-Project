@@ -153,6 +153,10 @@ STEP&: After that Run the Frontend using the following Command     :-
 
 
 
+![mg alt](https://github.com/Thannnuuuu/Angular_Django-Project/blob/main/employe%20save.PNG?raw=true)
+
+
+
 
 
 
